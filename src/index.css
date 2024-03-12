@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.generate-btn:hover{
+  transition: all ease 1s;
+  color: #86EFAC;
+}
